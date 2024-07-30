@@ -34,3 +34,7 @@ secrets.txt
 
 # vscode
 .vscode/
+
+# tailwind
+node_modules/
+*dist/
