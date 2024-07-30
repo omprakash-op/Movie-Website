@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Sanam Teri Kasam",
+    "date": "2016",
+    "genre": "Romance,Drama",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BMTQ3ZTJkYjItNTRhOC00ZjQ2LTgxMzgtZjE3NDY0NTlhYjcxXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "7.6",
+    "bposter": "https://m.media-amazon.com/images/M/MV5BMjU5MDExZjEtNDdiNC00NjYzLTk4MWMtZGRkZGY5MTcxYzRjXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_.jpg",
+    "url": "https://www.youtube.com/embed/htwtV6qsSVo?si=AKXv8bbzSbWeFqfG"
+  },
+  {
+    "name": "96",
+    "date": "2018",
+    "genre": "Romance,Drama",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BZTM1MGM3NjgtZjE4Mi00ZTNlLWI3ODAtNTViZjFmMDc3MjlhXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_.jpg",
+    "imdb": "8.5",
+    "bposter": "https://m.media-amazon.com/images/M/MV5BZjgzNGZiZDEtMThkOS00MTVmLTkzODgtYmQwZGNhZGFjMzVkXkEyXkFqcGdeQXVyOTc1NTkyNzU@._V1_.jpg",
+    "url": "https://www.youtube.com/embed/63F9Pv4k4wk?si=mWH7atUdAh34E7UU"
+  },
+  {
+    "name": "Baahubali: The Beginning",
+    "date": "2015",
+    "genre": "Action,Drama,Epic",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BYmE4YjFmNWQtYTk5ZC00OGU3LWFlOTQtNThmYjBhZjhlNzU5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "imdb": "8",
+    "bposter": "https://m.media-amazon.com/images/M/MV5BMTg3ZDBhZGUtYzRhYi00NjIyLWJlZmQtMGVlOWMwMjM0MGM5XkEyXkFqcGdeQXVyNTM3NDI3MzQ@._V1_.jpg",
+    "url": "https://www.youtube.com/embed/YMajpCDyqKE?si=Ana02H00DCP9BDAV"
+  },
+
+  {
+    "name": "Baahubali 2: The Conclusion",
+    "date": "2017",
+    "genre": "Action,Drama,Epic",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BMmE2MzYyY2UtYTI2ZS00NjUyLWE5MjEtMmJmMWVmZWFmMTYwXkEyXkFqcGdeQXVyODk2ODI3MTU@._V1_.jpg",
+    "imdb": "8.2",
+    "bposter": "https://m.media-amazon.com/images/M/MV5BNjkzNDgxNzYzOF5BMl5BanBnXkFtZTgwMzAyNDUwMjI@._V1_.jpg",
+    "url": "https://www.youtube.com/embed/wzhUzY_bkQY?si=K6e2fHBZ8Mf1kOsZ"
+  },
+  {
+    "name": "Dear Comrade",
+    "date": "2019",
+    "genre": "Action,Drama,Romance",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BMTdiNmVmOTAtMDNhZi00OTA1LWJhODEtNGE0ZmE2YjgxN2Y2XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
+    "imdb": "7.3",
+    "bposter": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wf_Lnn5AOJN2k7w-xXwMqJEW5F5E8v0SHA&s",
+    "url": "https://www.youtube.com/embed/zzhfvt5vZHI?si=ss_a6cdjT2dexKTe"
+  },
+  {
+    "name": "Sarrainodu",
+    "date": "2016",
+    "genre": "Action,Drama",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BMzQwZDI2NmYtZDgyOS00MmFkLTgzZGMtOTFjYjI0NmIzYTM2XkEyXkFqcGdeQXVyNzgwMjA1ODQ@._V1_.jpg",
+    "imdb": "6.6",
+    "bposter": "https://m.media-amazon.com/images/M/MV5BMGQxZGQ5YjAtYjA3Mi00NDQ2LWIyMDEtODk0MTE3MmQ4ZDY0XkEyXkFqcGdeQXVyMTE5NTEyNTg5._V1_QL75_UX480_.jpg",
+    "url": "https://www.youtube.com/embed/B6h-kQLQqec?si=tr5mbvq00SsmO7fJ"
+  },
+  {
+    "name": "Magadheera ",
+    "date": "2009",
+    "genre": "Action,Drama,Epic,Romance",
+    "sposter": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EJhuqsAOZVCeOIhDEEhbRp9cO5I26Dl-tg&s",
+    "imdb": "7.7",
+    "bposter": "https://i.ytimg.com/vi/QOiQWOvh3OA/mqdefault.jpg",
+    "url": "https://www.youtube.com/embed/js4HJnv4Zu4?si=uQDYsMRj6WAb08hp"
+  },
+  {
+    "name": "Phir Hera Pheri",
+    "date": "2006",
+    "genre": "Comedy",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BNzgzYjZjYzMtNjcyYy00NWI3LTg1NDItOTMzMzdhMjhjNWExXkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "7.2",
+    "bposter": "https://m.media-amazon.com/images/M/MV5BMDFhZTJmZGUtZDA1Yy00ODQ5LTkzOWQtOGM0Y2VkZGY0ODY0XkEyXkFqcGdeQXVyMjIzMTQzNDE@._V1_.jpg",
+    "url": "https://www.youtube.com/embed/TmxYlA26Jr4?si=g85Ei6wKFjOBK1ri"
+  },
+  {
+    "name": "Welcome",
+    "date": "2007",
+    "genre": "Comedy,Drama",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BZjcyOTViMzUtOWQ5Yy00ZTVmLWJmYzctN2U2OGVlN2ZjNTA0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "imdb": "7.1",
+    "bposter": "https://i.ytimg.com/vi/yNH_Bta3u0s/maxresdefault.jpg",
+    "url": "https://www.youtube.com/embed/EVslCRTLKJw?si=4yVSazPVioTKpSpF"
+  },
+  {
+    "name": "MCA Middle Class Abbayi",
+    "date": "2017",
+    "genre": "Action,Comedy",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BOWI2OGQwMmQtMTBkZi00NGZhLTkyNmUtMTE2MTgwZTM4ZDA3XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+    "imdb": "6.0",
+    "bposter": "https://i.ytimg.com/vi/Pf2hwLxU0zQ/mqdefault.jpg",
+    "url": "https://www.youtube.com/embed/uG7MIaziWG8?si=iAQGdnYlUMMfc7S0"
+  },
+  {
+    "name": "PK",
+    "date": "2014",
+    "genre": "Sci-fi,Comedy,Drama",
+    "sposter": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_.jpg",
+    "imdb": "8.1",
+    "bposter": "https://m.media-amazon.com/images/M/MV5BYWUyMjVmY2YtYTQ1OC00YTI4LWIzYWItNzkwMjFlN2VhZGI2XkEyXkFqcGdeQXVyMjY1OTQ0MDA@._V1_.jpg",
+    "url": "https://www.youtube.com/embed/UoFdURTfI4c?si=praBF_gJsuhAg6Fj"
+  }
+]
